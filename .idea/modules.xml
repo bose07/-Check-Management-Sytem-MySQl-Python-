@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/chequeNoter.iml" filepath="$PROJECT_DIR$/.idea/chequeNoter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProjects/email_sender/.idea/email_sender.iml" filepath="$PROJECT_DIR$/../pythonProjects/email_sender/.idea/email_sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProjects/myLittleHelper/.idea/myLittleHelper.iml" filepath="$PROJECT_DIR$/../pythonProjects/myLittleHelper/.idea/myLittleHelper.iml" />
+    </modules>
+  </component>
+</project>
